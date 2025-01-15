@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\EncapsulationOOPProject\EncapsulationOOPProject\bin\Debug\net8.0\EncapsulationOOPProject.exe
+C:\Users\caplo\source\repos\EncapsulationOOPProject\EncapsulationOOPProject\bin\Debug\net8.0\EncapsulationOOPProject.deps.json
+C:\Users\caplo\source\repos\EncapsulationOOPProject\EncapsulationOOPProject\bin\Debug\net8.0\EncapsulationOOPProject.runtimeconfig.json
+C:\Users\caplo\source\repos\EncapsulationOOPProject\EncapsulationOOPProject\bin\Debug\net8.0\EncapsulationOOPProject.dll
+C:\Users\caplo\source\repos\EncapsulationOOPProject\EncapsulationOOPProject\bin\Debug\net8.0\EncapsulationOOPProject.pdb
+C:\Users\caplo\source\repos\EncapsulationOOPProject\EncapsulationOOPProject\obj\Debug\net8.0\EncapsulationOOPProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\EncapsulationOOPProject\EncapsulationOOPProject\obj\Debug\net8.0\EncapsulationOOPProject.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\EncapsulationOOPProject\EncapsulationOOPProject\obj\Debug\net8.0\EncapsulationOOPProject.AssemblyInfo.cs
+C:\Users\caplo\source\repos\EncapsulationOOPProject\EncapsulationOOPProject\obj\Debug\net8.0\EncapsulationOOPProject.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\EncapsulationOOPProject\EncapsulationOOPProject\obj\Debug\net8.0\EncapsulationOOPProject.dll
+C:\Users\caplo\source\repos\EncapsulationOOPProject\EncapsulationOOPProject\obj\Debug\net8.0\refint\EncapsulationOOPProject.dll
+C:\Users\caplo\source\repos\EncapsulationOOPProject\EncapsulationOOPProject\obj\Debug\net8.0\EncapsulationOOPProject.pdb
+C:\Users\caplo\source\repos\EncapsulationOOPProject\EncapsulationOOPProject\obj\Debug\net8.0\EncapsulationOOPProject.genruntimeconfig.cache
+C:\Users\caplo\source\repos\EncapsulationOOPProject\EncapsulationOOPProject\obj\Debug\net8.0\ref\EncapsulationOOPProject.dll
